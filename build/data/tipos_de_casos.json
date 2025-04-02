@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "x": null,
+            "y": 5
+        },
+        {
+            "x": "Analítica",
+            "y": 42
+        },
+        {
+            "x": "Anestesia",
+            "y": 7
+        },
+        {
+            "x": "Animales exóticos",
+            "y": 14
+        },
+        {
+            "x": "Cardiología",
+            "y": 58
+        },
+        {
+            "x": "Cirugía",
+            "y": 24
+        },
+        {
+            "x": "Citología",
+            "y": 653
+        },
+        {
+            "x": "Cojeras de equinos",
+            "y": 6
+        },
+        {
+            "x": "Cuidados intensivos",
+            "y": 2
+        },
+        {
+            "x": "Dermatología",
+            "y": 26
+        },
+        {
+            "x": "Dermatología equinos",
+            "y": 1
+        },
+        {
+            "x": "ECG Electrocardiograma",
+            "y": 81
+        },
+        {
+            "x": "Ecocardiografía",
+            "y": 267
+        },
+        {
+            "x": "Ecografía",
+            "y": 1271
+        },
+        {
+            "x": "Endocrinología",
+            "y": 42
+        },
+        {
+            "x": "Etología",
+            "y": 6
+        },
+        {
+            "x": "Medicina felina",
+            "y": 90
+        },
+        {
+            "x": "Medicina interna",
+            "y": 148
+        },
+        {
+            "x": "Medicina interna equinos",
+            "y": 15
+        },
+        {
+            "x": "Neuroimagen",
+            "y": 11
+        },
+        {
+            "x": "Neurología",
+            "y": 36
+        },
+        {
+            "x": "Oftalmología",
+            "y": 29
+        },
+        {
+            "x": "Oncología",
+            "y": 181
+        },
+        {
+            "x": "Radiología",
+            "y": 119
+        },
+        {
+            "x": "Responsabilidad veterinaria",
+            "y": 4
+        },
+        {
+            "x": "TAC 1 Equinos",
+            "y": 20
+        },
+        {
+            "x": "TAC 2 Equinos",
+            "y": 6
+        },
+        {
+            "x": "TAC y RM. Cinco regiones",
+            "y": 8
+        },
+        {
+            "x": "TAC y RM. Cuatro regiones",
+            "y": 38
+        },
+        {
+            "x": "TAC y RM. Cuerpo completo",
+            "y": 1020
+        },
+        {
+            "x": "TAC y RM. Dos regiones",
+            "y": 4867
+        },
+        {
+            "x": "TAC y RM. Tres regiones",
+            "y": 463
+        },
+        {
+            "x": "TAC y RM. Una región",
+            "y": 16269
+        },
+        {
+            "x": "TAC y RM.Una región",
+            "y": 1
+        },
+        {
+            "x": "Test rápido",
+            "y": 28
+        },
+        {
+            "x": "Traumatología",
+            "y": 28
+        }
+    ],
+    "colors": [
+        "rgba(100, 50, 200, 0.6)",
+        "rgba(130, 70, 225, 0.6)",
+        "rgba(160, 90, 250, 0.6)",
+        "rgba(190, 110, 220, 0.6)",
+        "rgba(220, 130, 245, 0.6)",
+        "rgba(250, 50, 215, 0.6)",
+        "rgba(125, 70, 240, 0.6)",
+        "rgba(155, 90, 210, 0.6)",
+        "rgba(185, 110, 235, 0.6)",
+        "rgba(215, 130, 205, 0.6)",
+        "rgba(245, 50, 230, 0.6)",
+        "rgba(120, 70, 200, 0.6)",
+        "rgba(150, 90, 225, 0.6)",
+        "rgba(180, 110, 250, 0.6)",
+        "rgba(210, 130, 220, 0.6)",
+        "rgba(240, 50, 245, 0.6)",
+        "rgba(115, 70, 215, 0.6)",
+        "rgba(145, 90, 240, 0.6)",
+        "rgba(175, 110, 210, 0.6)",
+        "rgba(205, 130, 235, 0.6)",
+        "rgba(235, 50, 205, 0.6)",
+        "rgba(110, 70, 230, 0.6)",
+        "rgba(140, 90, 200, 0.6)",
+        "rgba(170, 110, 225, 0.6)",
+        "rgba(200, 130, 250, 0.6)",
+        "rgba(230, 50, 220, 0.6)",
+        "rgba(105, 70, 245, 0.6)",
+        "rgba(135, 90, 215, 0.6)",
+        "rgba(165, 110, 240, 0.6)",
+        "rgba(195, 130, 210, 0.6)",
+        "rgba(225, 50, 235, 0.6)",
+        "rgba(100, 70, 205, 0.6)",
+        "rgba(130, 90, 230, 0.6)",
+        "rgba(160, 110, 200, 0.6)",
+        "rgba(190, 130, 225, 0.6)",
+        "rgba(220, 50, 250, 0.6)"
+    ]
+}

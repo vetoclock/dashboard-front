@@ -1,0 +1,25 @@
+.datepicker-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.date-range,
+.year-select-container {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    .datepicker-container {
+        flex-direction: column;
+    }
+
+    .date-range,
+    .year-select-container {
+        flex-direction: column;
+    }
+}

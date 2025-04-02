@@ -1,0 +1,8 @@
+select {
+    max-height: 35px; /* Ajusta según sea necesario */
+}
+
+select option {
+    max-height: 200px; /* Ajusta la altura del menú */
+    overflow-y: auto;
+}
